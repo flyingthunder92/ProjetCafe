@@ -22,7 +22,7 @@ with tab1:
     - L'analyse complète des ventes par produit et par région
     - La répartition des ventes entre les différents canaux de distribution
     - Des recommandations basées sur les données
-    GitHub Link: https://github.com/flyingthunder92/IA1-env-ProjetBeansPods.git
+    GitHub Link: https://github.com/flyingthunder92/ProjetCafe
     """)
     
     st.image("https://theamericanomp.com/wp-content/uploads/2020/03/great-coffee-bean.jpeg", 
